@@ -1,0 +1,11 @@
+{
+  "main" : "sample_2.raml",
+  "name" : "sample_2",
+  "classifier" : "raml",
+  "tags" : [ ],
+  "groupId" : "4b9ccc8e-d478-4567-afb4-536534f1591d",
+  "assetId" : "sample_2",
+  "version" : "1.0.0",
+  "apiVersion" : "",
+  "dependencies" : [ ]
+}
